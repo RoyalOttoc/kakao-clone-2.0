@@ -4,7 +4,7 @@
 ---
  
  #### 1. main screen
- ![main](https://user-images.githubusercontent.com/53434429/108212448-ffb98400-7181-11eb-8ed2-d5f9347a100e.png)
+ ![main](https://user-images.githubusercontent.com/53434429/108212448-ffb98400-7181-11eb-8ed2-d5f9347a100e.png){: width="100" height="200"}
  
  #### 2. friend screen
  
